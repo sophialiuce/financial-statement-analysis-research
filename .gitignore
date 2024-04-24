@@ -1,3 +1,4 @@
 # exclude the data files
 *.xlsx
 *.json
+*.csv
